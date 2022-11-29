@@ -1,0 +1,1 @@
+export const RANDOM_GREETING = 'greetings/RANDOM_GREETING';
